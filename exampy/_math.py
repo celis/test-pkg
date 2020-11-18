@@ -15,7 +15,7 @@ float
     return x**2.
 
 def cube(x):
-    """The cube of a number.
+    """The cube of a number
 
 Calculates and returns the cube of any floating-point number;
 note that, as currently written, the function also works for
